@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/putra-pebriano-nurba-754b9227b/">Dhrubaraj</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/putra-pebriano-nurba-754b9227b/">Putra</a> </h1>
 
 <!-- Typing effect -->
 <p align="center">
