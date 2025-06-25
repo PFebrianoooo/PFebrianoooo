@@ -12,7 +12,7 @@
 <!-- About me -->
 
 - 🎓 I'm a Final Year **Informatics Engineering** Student.
-- 🌱 I’m currently learning **iOS & ANdroid Native Development**
+- 🌱 I’m currently learning **iOS & Android Native Development**
 - 👀 Interested in **Mobile Development**.
 - 💡 Currently focused on **Creating & Building**, **Developing**.
 - 📚 I Always Interesting To Find Something New In Technology.
